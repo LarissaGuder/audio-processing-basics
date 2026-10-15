@@ -30,7 +30,10 @@
 ### [Intro to Audio Analysis: Recognizing Sounds Using Machine Learning](https://hackernoon.com/intro-to-audio-analysis-recognizing-sounds-using-machine-learning-qy2r3ufl)
   Tutorial by Theodoros Giannakopoulos, the creator of the pAA (pyAudioAnalysis) library. Good for understanding handcrafted feature extraction.
 
+
 ## Papers
 
 
 ## Repos
+### [DSP to AI](https://ashyraw.github.io/DSP-to-AI/index.html)
+  Repo by Ashish Rawat, that provides a guide from Digital Signal Processing for AI. 
